@@ -1,2 +1,2 @@
-# DoNgocQuy_hcmut
+# DoNgocQuy_hcmut.github.io
 blog
